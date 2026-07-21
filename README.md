@@ -22,6 +22,8 @@ chmod +x server-stats.sh
 ./server-stats.sh
 ```
 
+https://roadmap.sh/projects/server-stats
+
 This project is a lightweight server monitoring utility built using standard Linux commands, making it compatible with most Linux distributions without requiring additional dependencies.
 
 
